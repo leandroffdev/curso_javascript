@@ -1,0 +1,10 @@
+.interacao-txt {
+    display: none;
+}
+
+.ativar-txt {
+    display: block;
+}
+body {
+    height: 2000px;
+}
